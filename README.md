@@ -31,7 +31,7 @@ A deep neural network implemented from scratch (without ML frameworks) for recog
 - Weight initialization strategies
 
 ## Dataset
-Trained and evaluated on the standard [MNIST dataset](http://yann.lecun.com/exdb/mnist/):
+Trained and evaluated on the standard [MNIST dataset]:
 - 60,000 training images
 - 10,000 test images
 - 28×28 grayscale handwritten digits (0-9)
